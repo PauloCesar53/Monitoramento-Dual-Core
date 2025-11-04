@@ -101,7 +101,7 @@ O binário .uf2 será gerado em build/ (nome conforme o CMakeLists.txt).
 
 ## Demonstração em vídeo
 
-Link:
+Link: [Vídeo de demonstração](https://youtu.be/1DGMDi1OCNk)
 
 ---
 
